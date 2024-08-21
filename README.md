@@ -120,6 +120,7 @@
 | Matrine                | ماترین            | Matrine            | Sophora flavescens               | سوفورا             | ضد سرطان و ضد التهاب   |
 | Magnolol               | مگنولول           | Magnolol           | Magnolia officinalis             | ماگنولیا           | آرام‌بخش و ضد اضطراب    |
 | Methylcobalamin        | متیل کوبالامین    | Methylcobalamin    | Saccharomyces cerevisiae         | مخمر نان           | تقویت سیستم عصبی و درمان کم‌خونی |
+| Metformin              | متفورمین          | Metformin              | Galega officinalis          | گالگا                 | درمان دیابت نوع 2            |
 | Mangiferin             | مانگیفرین         | Mangiferin         | Mangifera indica                 | انبه               | آنتی‌اکسیدان و ضد دیابت |
 | Marrubiin              | ماروبین           | Marrubiin          | Marrubium vulgare                | ماروبیوم (ماروب)   | درمان سرفه و تقویت قلب  |
 | Melatonin              | ملاتونین          | Melatonin          | Animal (Pineal gland)            | حیوانی (غده پینه‌آل) | تنظیم خواب و درمان بی‌خوابی |
@@ -257,6 +258,3 @@
 | Zinc Oxide             | اکسید روی         | Zinc Oxide         | Natural mineral source           | منبع معدنی طبیعی   | محافظت از پوست و ضدعفونی‌کننده |
 | Zosteric Acid          | زوستریک اسید      | Zosteric Acid      | Zostera marina                   | علف دریایی زوسترا  | ضد باکتری و ضد خزه      |
 | Zingiberene            | زینجیبرین         | Zingiberene        | Zingiber officinale              | زنجبیل              | آنتی‌اکسیدان و ضد التهاب |
-
-
-
